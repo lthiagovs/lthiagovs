@@ -14,8 +14,8 @@ Implementada em C++, C# e Lua, com interface web para interação ao vivo e tran
 
 ## Estatísticas do GitHub
 
-![Luis Thiago's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=default&hide_title=true&hide=issues)
+![Luis Thiago's GitHub Stats](https://github-readme-stats.vercel.app/api?username=lthiagovs&show_icons=true&theme=default&hide_title=true&hide=issues)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lthiagovs&layout=compact)
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/lthiagovs/)
