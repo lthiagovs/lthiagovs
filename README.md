@@ -3,7 +3,7 @@
 💻 Desenvolvedor de software especializado em **C#** e **.NET**.  
 🔍 Busco soluções eficientes para problemas complexos, sempre mantendo a qualidade e desempenho como prioridades.
 
-## 🚀 Principais Projetos
+## 🚀 **Principais Projetos**
 
 ### [📚 Biblioteca Virtual de Tianguá](https://github.com/lthiagovs/biblioteca_virtual)
 Desenvolvimento de uma plataforma para gerenciamento de acervos e eventos culturais, integrando uma interface intuitiva com um sistema robusto em **ASP.NET Core** e **JavaScript**.
@@ -12,11 +12,15 @@ Desenvolvimento de uma plataforma para gerenciamento de acervos e eventos cultur
 Ferramenta de controle remoto para monitoramento e gerenciamento de sistemas em tempo real.  
 Implementada em **C++**, **C#** e **Lua**, com interface web para interação ao vivo e transferência de arquivos.
 
-## 📊 Estatísticas do GitHub
+## 📊 **Estatísticas do GitHub**
 
 | ![Luis Thiago's GitHub Stats](https://github-readme-stats.vercel.app/api?username=lthiagovs&show_icons=true&theme=tokyonight&hide_title=true&hide=issues) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lthiagovs&layout=compact&theme=tokyonight) |
 | --- | --- |
 
-## 🌐 Contato
+### 📈 **Commits Recentes**
+
+![GitHub Commits](https://github-readme-streak-stats.herokuapp.com/?user=lthiagovs&theme=tokyonight)
+
+## 🌐 **Contato**
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/lthiagovs/)
