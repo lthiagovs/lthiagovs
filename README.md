@@ -3,6 +3,9 @@
 💻 Desenvolvedor de software especializado em **C#** e **.NET**.  
 🔍 Busco soluções eficientes para problemas complexos, sempre mantendo a qualidade e desempenho como prioridades.
 
+## <span style="color:purple">🌐 Contato</span>
+- 💼 [LinkedIn](https://www.linkedin.com/in/lthiagovs/)
+
 ## <span style="color:purple">🚀 Principais Projetos</span>
 
 ### [📚 Biblioteca Virtual de Tianguá](https://github.com/lthiagovs/biblioteca_virtual)
@@ -18,11 +21,3 @@ Implementada em **C++**, **C#** e **Lua**, com interface web para interação ao
 | --- | --- |
 
 ### <span style="color:purple">📈 Contribuições Recentes</span>
-
-Você pode visualizar meu histórico de commits diários no gráfico de contribuições abaixo!
-
-![GitHub Contributions](https://github.com/lthiagovs)
-
-## <span style="color:purple">🌐 Contato</span>
-
-- 💼 [LinkedIn](https://www.linkedin.com/in/lthiagovs/)
