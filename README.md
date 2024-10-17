@@ -16,6 +16,4 @@ Ferramenta de controle remoto para monitoramento e gerenciamento de sistemas em 
 Implementada em **C++**, **C#** e **Lua**, com interface web para interação ao vivo e transferência de arquivos.
 
 ## <span style="color:purple">📊 Estatísticas do GitHub</span>
-
-| ![Luis Thiago's GitHub Stats](https://github-readme-stats.vercel.app/api?username=lthiagovs&show_icons=true&theme=tokyonight&hide_title=true&hide=issues) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lthiagovs&layout=compact&theme=tokyonight) |
-| --- | --- |
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lthiagovs&layout=compact&theme=tokyonight)
